@@ -1,0 +1,8 @@
+.jumbotron{
+    background-color: #800000;
+    color: white;
+}
+.table-bordered{
+    width: 100%;
+    padding: 35px;
+}
